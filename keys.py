@@ -5,7 +5,7 @@ from pynput.keyboard import Controller
 COMBINATIONS = [{keyboard.Key.alt,keyboard.KeyCode(char="n")},]
 COMBINATIONS2 = [{keyboard.Key.alt, keyboard.KeyCode(char="N")}]
 COMBINATIONS3 = [{keyboard.Key.alt,keyboard.KeyCode(char="c")},]
-COMBINATIONS4 = [{keyboard.Key.alt, keyboard.KeyCode(char="")}]
+COMBINATIONS4 = [{keyboard.Key.alt, keyboard.KeyCode(char="C")}]
 #some needed variables
 keyboards = Controller()
 current = set()

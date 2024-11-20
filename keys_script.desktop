@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=python3 ~/.config/keys.py
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Keys Script
+

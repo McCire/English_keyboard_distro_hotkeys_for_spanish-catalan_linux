@@ -2,7 +2,7 @@
 This programs allows users to use alt + {c,C,n,N} to write ç,Ç,ñ,Ñ in english distribution keyboards.
 To use first clone repository
 
-```git clone https://github.com/McCire/English_keyboard_distro_hotkeys_for_spanish-catalan_linux.git```
+	git clone https://github.com/McCire/English_keyboard_distro_hotkeys_for_spanish-catalan_linux.git
 
 Next change directory:
 

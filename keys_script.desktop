@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
-Exec=python3 ~/.config/keys.py
+Exec=python3 /home/eric/.config/keysC.py
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
 Name=Keys Script
-
+X-GNOME-Autostart-Delay=5
